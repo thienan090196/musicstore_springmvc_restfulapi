@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="musicstore_springmvc_restfulapi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="musicstore.war">
+      <element id="artifact" artifact-name="musicstore_springmvc_restfulapi:war exploded" />
+    </root>
+  </artifact>
+</component>
